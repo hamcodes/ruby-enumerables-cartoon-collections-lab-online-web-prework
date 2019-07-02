@@ -21,4 +21,5 @@ def find_the_cheese# code an argument here
     if cheese_types.include?(x)
       return x
     end
+  end
 end
